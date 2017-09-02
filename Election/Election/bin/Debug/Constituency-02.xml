@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Election>
+  <Constituency name="Newcastle">
+    <Candidate party="Labour">
+      <Firstname>Daniel</Firstname>
+      <Lastname>Smith</Lastname>
+      <Votes>243</Votes>
+    </Candidate>
+    <Candidate party="Conservatives">
+      <Firstname>David</Firstname>
+      <Lastname>Shakesby</Lastname>
+      <Votes>123</Votes>
+    </Candidate>
+    </Constituency>
+</Election>

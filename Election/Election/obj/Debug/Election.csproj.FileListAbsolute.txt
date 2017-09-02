@@ -1,0 +1,14 @@
+C:\Users\DanielWilkinson\Desktop\ElectionSystemFinished\Election\Election\bin\Debug\Election.exe.config
+C:\Users\DanielWilkinson\Desktop\ElectionSystemFinished\Election\Election\obj\Debug\Election.exe
+C:\Users\DanielWilkinson\Desktop\ElectionSystemFinished\Election\Election\obj\Debug\Election.pdb
+C:\Users\DanielWilkinson\Desktop\Advanced Programming Finished\Election\Election\bin\Debug\Election.exe.config
+C:\Users\DanielWilkinson\Desktop\Advanced Programming Finished\Election\Election\obj\Debug\Election.exe
+C:\Users\DanielWilkinson\Desktop\Advanced Programming Finished\Election\Election\obj\Debug\Election.pdb
+C:\Users\DanielWilkinson\Desktop\Advanced Programming Finished\Election\Election\bin\Debug\Election.exe
+C:\Users\DanielWilkinson\Desktop\Advanced Programming Finished\Election\Election\bin\Debug\Election.pdb
+C:\Users\DanielWilkinson\Desktop\Advanced Programming Finished\Election\Election\bin\Debug\MoreLinq.dll
+C:\Users\DanielWilkinson\Desktop\Advanced Programming Finished\Election\Election\bin\Debug\MoreLinq.xml
+C:\Users\DanielWilkinson\Desktop\Advanced Programming Finished\Election\Election\obj\Debug\Election.csprojResolveAssemblyReference.cache
+C:\Users\DanielWilkinson\Desktop\Advanced Programming Finished\Election\Election\obj\Debug\Election.FormBasedUI.resources
+C:\Users\DanielWilkinson\Desktop\Advanced Programming Finished\Election\Election\obj\Debug\Election.Properties.Resources.resources
+C:\Users\DanielWilkinson\Desktop\Advanced Programming Finished\Election\Election\obj\Debug\Election.csproj.GenerateResource.Cache
